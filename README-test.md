@@ -1,8 +1,8 @@
 
-#Lock-it and Shop-it
+# Lock-it and Shop-it
 
 ## Description
-A grocery list application
+Grocery store list
 
 ## Table of Contents
 
@@ -14,19 +14,19 @@ A grocery list application
 - [Questions](#questions)
 
 ## Installation
-Go to the search bar and type in the URL.
+n/a
 
 ## Usage
-Used to help with keeping track of what to buy
+go to search engine and type in URL
 
 ## License
-The license used for this application was the  License.
+The license used for this application was the MIT License.
 
 ## Contributing
-Review the code and see if there is any place for improvments
+Review code
 
 ## Tests
-N/A
+n/a
 
 ## Questions
-if you have any questions or need more information email me at pabloarchuleta@gmail.com. You can also reach me at GitHub (https://github.com/yes) 
+if you have any questions or need more information email me at pabloarchuleta@gmail.com. You can also reach me at GitHub (https://github.com/undefined) 

@@ -49,11 +49,6 @@ const questions =[
   },
   {
     type: 'input',
-    name: 'GitHubURL',
-    message: `What is the URL to your GitHub profile?`
-  },
-  {
-    type: 'input',
     name: 'email',
     message: `What is your email address?`
   }
@@ -72,7 +67,7 @@ fs.writeFile(`README-test.md`, README, err => {
 // Function for adding the answers from the object questions to the README
 function markDown(answers){
 return `
-#${answers.title}
+# ${answers.title}
 
 ## Description
 ${answers.description}
